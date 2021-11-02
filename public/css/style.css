@@ -272,7 +272,7 @@ h2 code {
     margin-top: 1%;
 }
 
-.post-entry img[alt$="><"] {
+.blog_nav_bar img[alt$="><"] {
     display: block;
     float: none!important;
     margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
