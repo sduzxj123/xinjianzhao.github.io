@@ -282,7 +282,7 @@ h2 code {
     border-radius: 6px;
     -webkit-box-shadow: 0 0 0px #ece7e7;
     -moz-box-shadow: 0 0 0px #ece7e7;
-    max-width: 75%;
+    max-width: 25%;
     vertical-align: middle;
     /* whatever else styles you fancy here */ 
 }
