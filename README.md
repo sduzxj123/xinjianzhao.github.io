@@ -6,5 +6,5 @@ Usage:
 + Put these two reporsitories in the same folder. 
 + In rzy0901.github.io:
   + Change the username in run.txt and config.toml.
-  + `bash tun.txt`
+  + `bash run.txt`
 
